@@ -1,0 +1,64 @@
+அந்த := word &
+[ ORTH "அந்த",
+  HEAD det,
+  SPR < >,
+  COMPS < > ].
+
+இந்த := word &
+[ ORTH "இந்த",
+  HEAD det,
+  SPR < >,
+  COMPS < > ].
+
+அவை  := word &
+[ ORTH "அவை",
+  HEAD det,
+  SPR < >,
+  COMPS < > ].
+
+நாய் := word &
+[ ORTH "நாய்",
+  HEAD noun,
+  SPR < [HEAD det] >,
+  COMPS < > ].
+
+நாய் := word &
+[ ORTH "நாய்கள்",
+  HEAD noun,
+  SPR < [HEAD det] >,
+  COMPS < >  ].
+
+பூனை := word &
+[ ORTH "பூனை",
+  HEAD noun,
+  SPR < [HEAD det] >,
+  COMPS < > ].
+
+
+குறைத்தது := word &
+[ ORTH "குறைத்தது",
+  HEAD verb,
+  SPR < [HEAD noun] >,
+  COMPS < > ].
+
+குறைத்தன := word &
+[ ORTH "குறைத்தன",
+  HEAD verb,
+  SPR < [HEAD noun] >,
+  COMPS < > ].
+
+துரத்தின := word &
+[ ORTH "துரத்தின",
+  HEAD verb,
+  SPR < [HEAD noun] >,
+  COMPS < phrase & [HEAD noun] > ].
+
+துரத்தியது := word &
+[ ORTH "துரத்தியது",
+  HEAD verb,
+  SPR < [HEAD noun] >,
+  COMPS < phrase & [HEAD noun] > ].
+
+
+
+
